@@ -1,5 +1,5 @@
 /*
-IV. Bonus - Tower of Hanoi (35 points)
+IV. BONUS - Tower of Hanoi (35 points)
 
 The Tower of Hanoi is a mathematical puzzle that consists of three rods and a number of disks of
 different sizes which can slide onto any rods (see diagram in the pdf).
