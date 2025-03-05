@@ -1,5 +1,5 @@
 /*
-I. Simple Banking System
+I. Simple Banking System (85 points)
 
 Write a C program that simulates a simple banking system. The program should allow multiple
 users to register, being authenticated and perform the following operations:
